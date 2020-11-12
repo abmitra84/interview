@@ -5,8 +5,11 @@ Set 1:
 1. Go to kaggle and download Indian Food Recipes Dataset
 2. Upload in google colab
 
-from google.colab import files
-uploaded = files.upload()
+ ```  
+ from google.colab import files
+ uploaded = files.upload()
+ ```
+
 
 3. How many dishes are there with Onion as ingredient and takes less than 15 minutes to cook
 4. Find out number of dishes with less than 30 minutes to cook and is of Diet=Vegan
