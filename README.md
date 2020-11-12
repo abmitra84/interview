@@ -25,9 +25,9 @@ edge case = 'CCCABCCC'
 
 Set 3:
 =============
-Given a text = 'Sub: Regarding your email on ticket #1234 Hi Tom, here is the update Thanks'
+Given a text = 'Sub: Regarding your email on ticket #1234 Hi Tom, here is the update to your request Thanks'
 
-Please find out the main body of the email "Hi Tom, here is the update"
+Please find out the main body of the email "here is the update"
 
 
 Set 4:
